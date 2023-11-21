@@ -1,0 +1,57 @@
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.AssemblyReference.cache
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfoInputs.cache
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfo.cs
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.CoreCompileInputs.cache
+C:/Projects/upidrsmiddleware/Util/bin/Debug/net6.0/Util.deps.json
+C:/Projects/upidrsmiddleware/Util/bin/Debug/net6.0/Util.dll
+C:/Projects/upidrsmiddleware/Util/bin/Debug/net6.0/Util.pdb
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.dll
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/refint/Util.dll
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/Util.pdb
+C:/Projects/upidrsmiddleware/Util/obj/Debug/net6.0/ref/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.deps.json
+/Users/mac/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/refint/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/ref/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.runtimeconfig.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/refint/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/Util.genruntimeconfig.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Util/obj/Debug/net6.0/ref/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Util/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/Util/bin/Debug/net6.0/Util.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/Util/bin/Debug/net6.0/Util.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware 3/Util/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Util/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/refint/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/Util.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Util/obj/Debug/net6.0/ref/Util.dll

@@ -1,0 +1,60 @@
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.deps.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/refint/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/ref/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Lib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Lib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CopyComplete
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/refint/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/obj/Debug/net6.0/ref/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementNotificationLib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/refint/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementNotificationLib/obj/Debug/net6.0/ref/SettlementNotificationLib.dll

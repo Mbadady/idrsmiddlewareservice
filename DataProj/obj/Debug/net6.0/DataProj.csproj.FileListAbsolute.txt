@@ -1,0 +1,36 @@
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/DataProj.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/DataProj.runtimeconfig.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/DataProj.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.csproj.CopyComplete
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/refint/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/DataProj.genruntimeconfig.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/DataProj/obj/Debug/net6.0/ref/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/DataProj.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/DataProj.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/refint/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/DataProj.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware 3/DataProj/obj/Debug/net6.0/ref/DataProj.dll

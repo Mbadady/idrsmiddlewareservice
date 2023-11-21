@@ -1,0 +1,72 @@
+C:/Projects/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.deps.json
+C:/Projects/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.dll
+C:/Projects/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.pdb
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.AssemblyReference.cache
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfoInputs.cache
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfo.cs
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CoreCompileInputs.cache
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.dll
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/refint/Pushlib.dll
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.pdb
+C:/Projects/upidrsmiddleware/Pushlib/obj/Debug/net6.0/ref/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.deps.json
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/refint/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/ref/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Pushlib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Lib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/Lib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CopyComplete
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/refint/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/Pushlib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/obj/Debug/net6.0/ref/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushlib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Pushlib.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/refint/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushlib/obj/Debug/net6.0/ref/Pushlib.dll

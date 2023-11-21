@@ -1,0 +1,203 @@
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.exe
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.deps.json
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.runtimeconfig.json
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.dll
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.pdb
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.dll
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.dll
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.dll
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.pdb
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.pdb
+C:/Projects/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.pdb
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.AssemblyReference.cache
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfoInputs.cache
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfo.cs
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CoreCompileInputs.cache
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CopyComplete
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.dll
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/refint/Pushservice.dll
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.pdb
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.genruntimeconfig.cache
+C:/Projects/upidrsmiddleware/Pushservice/obj/Debug/net6.0/ref/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.deps.json
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Npgsql.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.Compression.Portable.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.Licensing.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.XlsIO.Portable.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/System.Text.Json.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/BankListLib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/BankListLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/refint/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.pdb
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/ref/Pushservice.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.exe
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.runtimeconfig.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushservice.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.Compression.Portable.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.Licensing.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Syncfusion.XlsIO.Portable.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Lib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Pushlib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Servicelib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/SettlementStatusLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Lib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CopyComplete
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/refint/Pushservice.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/Pushservice.genruntimeconfig.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/obj/Debug/net6.0/ref/Pushservice.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/Pushservice/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushservice
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushservice.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushservice.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushservice.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Npgsql.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Syncfusion.Compression.Portable.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Syncfusion.Licensing.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Syncfusion.XlsIO.Portable.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/System.Text.Json.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushlib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Servicelib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Pushlib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Servicelib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/SettlementNotificationLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/refint/Pushservice.dll
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/Pushservice.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/obj/Debug/net6.0/ref/Pushservice.dll

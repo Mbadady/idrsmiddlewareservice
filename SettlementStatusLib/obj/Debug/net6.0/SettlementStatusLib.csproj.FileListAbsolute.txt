@@ -1,0 +1,60 @@
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.deps.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.runtimeconfig.json
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/refint/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.genruntimeconfig.cache
+/Users/mac/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/ref/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/appsettings.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.deps.json
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Lib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Util.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Lib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/Util.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.AssemblyReference.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfoInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfo.cs
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CoreCompileInputs.cache
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CopyComplete
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/refint/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.pdb
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/obj/Debug/net6.0/ref/SettlementStatusLib.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/DataProj.dll
+C:/Users/Smbah/Downloads/upidrsmiddleware/SettlementStatusLib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/appsettings.json
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.deps.json
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/DataProj.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/Lib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/Util.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/DataProj.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/Lib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/bin/Debug/net6.0/Util.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.AssemblyReference.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfoInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.AssemblyInfo.cs
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.csproj.CopyComplete
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/refint/SettlementStatusLib.dll
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/SettlementStatusLib.pdb
+/Users/mac/Downloads/upidrsmiddleware 3/SettlementStatusLib/obj/Debug/net6.0/ref/SettlementStatusLib.dll

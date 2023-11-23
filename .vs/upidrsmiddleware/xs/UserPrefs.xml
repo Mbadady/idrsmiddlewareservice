@@ -1,7 +1,4 @@
 ﻿<Properties StartupConfiguration="{FCA2107A-87B9-4F74-BE01-DE33346DC87D}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Pushservice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/Program.cs" relfile="Pushservice/Program.cs" line="24" column="1" />
@@ -11,9 +8,12 @@
       <Breakpoint file="/Users/mac/Downloads/upidrsmiddleware 3/Pushservice/Program.cs" relfile="Pushservice/Program.cs" line="93" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Pushservice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Pushlib/DTO/PushRequestDTO.cs">
     <Files>
-      <File FileName="Lib/NibssService.cs" Line="86" Column="61" />
+      <File FileName="Lib/NibssService.cs" />
       <File FileName="Util/Encryption.cs" />
       <File FileName="Pushlib/Helper/Converter.cs" />
       <File FileName="Pushlib/Helper/Repo.cs" />
@@ -22,8 +22,8 @@
       <File FileName="Pushlib/DTO/PushRequestDTO.cs" Line="28" Column="1" />
       <File FileName="Pushlib/Helper/Lookups.cs" />
       <File FileName="Pushlib/DTO/PosWebRequest.cs" />
-      <File FileName="Pushlib/DTO/DataRequestDTO.cs" Line="1" Column="1" />
-      <File FileName="Pushlib/DTO/ATMRequest.cs" Line="1" Column="1" />
+      <File FileName="Pushlib/DTO/DataRequestDTO.cs" />
+      <File FileName="Pushlib/DTO/ATMRequest.cs" />
       <File FileName="SettlementNotificationLib/DTO/SettlementNotificationRequestDTO.cs" />
       <File FileName="Util/appsettings.json" />
       <File FileName="SettlementNotificationLib/DTO/DataResponseData.cs" />
@@ -32,18 +32,18 @@
       <File FileName="SettlementNotificationLib/DTO/SettlementNotificationResponseDTO.cs" />
       <File FileName="BankListLib/DTO/BankResponseDTO.cs" />
       <File FileName="BankListLib/DTO/DataResponseDTO.cs" />
-      <File FileName="Util/transactiondata.txt" Line="1" Column="1" />
+      <File FileName="Util/transactiondata.txt" />
       <File FileName="DataProj/Domain/Claim.cs" />
       <File FileName="DataProj/DataContext/ApplicationDbContext.cs" />
       <File FileName="Util/Util.csproj" />
       <File FileName="SettlementStatusLib/DTO/SettlementStatusRequestDTO.cs" />
       <File FileName="SettlementStatusLib/DTO/DataRequestDTO.cs" />
-      <File FileName="Lib/DTO/ResponseDTO.cs" Line="17" Column="25" />
-      <File FileName="Lib/DTO/RequestDTO.cs" Line="1" Column="1" />
-      <File FileName="Pushlib/Core.cs" Line="58" Column="1" />
-      <File FileName="SettlementNotificationLib/SettlementNotification.cs" Line="91" Column="1" />
-      <File FileName="SettlementStatusLib/SettlementStatus.cs" Line="44" Column="1" />
-      <File FileName="Pushservice/Program.cs" Line="70" Column="1" />
+      <File FileName="Lib/DTO/ResponseDTO.cs" />
+      <File FileName="Lib/DTO/RequestDTO.cs" />
+      <File FileName="Pushlib/Core.cs" />
+      <File FileName="SettlementNotificationLib/SettlementNotification.cs" />
+      <File FileName="SettlementStatusLib/SettlementStatus.cs" />
+      <File FileName="Pushservice/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -66,5 +66,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
